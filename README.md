@@ -11,3 +11,6 @@ Features
 Usage  
 - Open `index.php` in your browser.  
 - Manage users with the CRUD system.
+
+## 📥 Download & Setup
+🔗 **[Download the project files](https://github.com/iZioid/pdo-crud-app/archive/refs/heads/main.zip)**  
